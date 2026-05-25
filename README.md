@@ -30,7 +30,7 @@ Windows:
 C:\Users\ユーザー名\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Edit\
 Edit フォルダがない場合は作成してください。
 
-##　使い方
+## 使い方
 
 1.DaVinci Resolveでプロジェクトを開く
 2.空のタイムラインを作る
